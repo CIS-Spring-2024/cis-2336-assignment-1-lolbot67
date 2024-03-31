@@ -33,3 +33,21 @@ header {
 header {
     border-bottom: 1px solid #ccc;
 }
+
+img {
+    max-width: 50%;
+    height: 40%;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
+#biography {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#content {
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 18px;
+}
