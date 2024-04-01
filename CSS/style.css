@@ -11,6 +11,15 @@ header {
     padding: 20px 0;
 }
 
+h1#title{
+    color: white;
+}
+
+h1 {
+    color: maroon;
+}
+
+
 
 .events {
     padding-left: 20px;
